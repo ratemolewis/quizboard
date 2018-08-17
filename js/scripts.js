@@ -31,15 +31,16 @@ $(document).ready(function(){
 
       var fivethQ = $("input:radio[name=childrens]:checked").val();
 
-      if(fivethQ ==="false"){
+      if(fivethQ ==="false"){T
         debugger;
         total += 10;
-        
+
       }
+      window.location.reload();
           // array.push(fouthQ)
           var  percentage=total*2
           if(percentage<50){
-            alert("Your score is"+"."+ percentage +""+"%");
+            alert("Your score is"+","+ percentage +""+"%");
             alert("You can do better next time!");
           }if(percentage>50 && percentage < 60){
             alert("Your score is"+"."+ percentage +""+"%");
