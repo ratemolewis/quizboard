@@ -1,7 +1,10 @@
-#{++QUIZ BORD++}
-##++RATEM0 LEWIS++
+#{QUIZ BORD}
+##RATEM0 LEWIS
 #### {Brief This contains my details and the hobbies that i love}, {03/8/2018}
 #### By **{List of contributors}**
+*Markash
+*Google
+*Kyalo
 ## Description
 This is a triangle web-app that prompts the use input the three sides of a triangle and checks the type of triangle. It returns with a message of Isosceles, Equilateral, Scalene and finally output invalid if the sides can't make a triangle.
 ## Setup/Installation Requirements
@@ -9,7 +12,7 @@ This is a triangle web-app that prompts the use input the three sides of a trian
 * Internet connection wi-fi/bundles
 * It runs on a web browser i.e chrome.
 ###Project behavious
-* Input entered is integers
+* 
 * Wrong input should return an message.*invalid*
 * It should return the type of triangle if a use inputs three integers
 
